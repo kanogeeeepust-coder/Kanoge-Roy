@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kanoge Roy</h1>
 <h3 align="center">🎓 Lecturer | Researcher | Machine Learning & Embedded Systems Enthusiast</h3>
 
-- 🔭 I’m currently working on **Deep Learning for Image Processing | Machine Learning for Prediction**
+- 🔭 I’m currently working on **Deep Learning for Image Processing & Machine Learning for Prediction**
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/kanoge/home](https://sites.google.com/view/kanoge/home)
-
-- 💬 Ask me about **Embedded Systems Design Arduino & ESP8266 Projects Machine Learning & Deep Learning MATLAB & Simulation IoT System Development**
 
 - 📫 How to reach me **kanoge.eee.pust@gmail.com**
 
